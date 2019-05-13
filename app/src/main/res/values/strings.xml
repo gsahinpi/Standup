@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Standup</string>
+    <string name="alarm_off">alarm off</string>
+    <string name="alarm_on">alarm On</string>
+</resources>
